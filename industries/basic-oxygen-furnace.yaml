@@ -106,8 +106,8 @@ cargoAcceptance:
 - QLME
 - O2__
 cargoProduction:
-- STCB
 - STAL
+- STCB
 - SLAG
 colour: 49
 fundCostMultiplier: 160

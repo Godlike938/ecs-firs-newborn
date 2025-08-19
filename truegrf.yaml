@@ -1,4 +1,6 @@
 description: A new TrueGRF project based on FIRS Steeltown
 license: GPL-2.0
+name: Test
 type: industry
+url: Test
 version: 6
