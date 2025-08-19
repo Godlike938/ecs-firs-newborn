@@ -156,9 +156,9 @@ cargoAcceptance:
 - LYE_
 - STSE
 cargoProduction:
+- ENSP
 - SOAP
 - POWR
-- ENSP
 - COAT
 - ZINC
 colour: 37
@@ -504,7 +504,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3981
+      filename: industries/wharf/34.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:

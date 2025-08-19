@@ -153,7 +153,7 @@ colour: 169
 fundCostMultiplier: 180
 id: 26
 layout:
-- - - 3
+- - - 10
     - -1
     - 2
     - 1
@@ -223,7 +223,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 2022
+      filename: industries/soda-ash-mine/14.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
@@ -256,7 +258,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 2022
+      filename: industries/soda-ash-mine/13.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
@@ -329,4 +333,17 @@ tiles:
       filename: industries/soda-ash-mine/10.png
       left: -31
       top: -90
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/soda-ash-mine/12.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/soda-ash-mine/11.png
+      left: -31
+      top: 0
 type: primary
